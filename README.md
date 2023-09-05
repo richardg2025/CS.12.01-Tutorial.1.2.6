@@ -44,7 +44,7 @@ c) Write the Mountain method getPeakIndex. Method getPeakIndex returns the index
 
 For example, the following table illustrates the results of several calls to getPeakIndex.
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.6/assets/57818506/783a72ed-dba9-4157-a358-61467caa7a7d)
+<img width="729" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.6/assets/57818506/afb187fa-0b7a-42dd-93a0-63d17213fe44">
 
 d) Write the Mountain method isMountain. Method isMountain returns true if the values in the parameter array are ordered as a mountain; otherwise, it returns false. The values in array are ordered as a mountain if all three of the following conditions hold.
 
@@ -54,6 +54,6 @@ The array elements with an index larger than the peak’s index must appear in d
 
 For example, the following table illustrates the results of several calls to isMountain.
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.6/assets/57818506/28d19669-9d24-4ef9-b9ac-92d57454e7d6)
+<img width="728" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.6/assets/57818506/736fdc97-1022-4c64-9ede-f0ca1e7166fe">
 
 In writing the Mountain method isMountain, ensure that you use the Mountain methods isIncreasing, isDecreasing, and getPeakIndex.
